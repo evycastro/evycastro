@@ -22,9 +22,9 @@ Estou em constante aprendizado, e sou muito adepta ao autodidatismo.
 ---
 
 
-🚀 **Conhecimentos**: HTML5, CSS3.
+📖 **Conhecimentos**: HTML5, CSS3.
 
-🛠️ **Ferramentas**: Visual Studio Code, Photoshop, Adobe XD, Git e Github.
+🖱️ **Ferramentas**: Visual Studio Code, Photoshop, Adobe XD, Git e Github.
 
 🌱 **Estudando atualmente**:  JavaScript, Java, TypeScript e Angular.
 
