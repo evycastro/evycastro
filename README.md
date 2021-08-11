@@ -1,16 +1,49 @@
-### Hi there 👋
+### Olá, seja bem vindo! 👋
+&nbsp;
 
-<!--
-**evycastro/evycastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Me chamo Evelyn Castro, e sou estudante de **Front-End**.
+&nbsp; 
 
-Here are some ideas to get you started:
+Estou em constante aprendizado, e sou muito adepta ao autodidatismo.
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+*Cursei:*
+- **Web Design**, Origamid;
+- **Lógica de Programação Essencial**, Digital Innovation One;
+- **Git & GitHub**, Digital Innovation One;
+&nbsp;
+
+*Cursando:*
+- **JavaScript Completo ES6**, Origamid;
+- **Bootcamp Capgemini Fullstack Java and Angular**, Digital Innovation One.
+&nbsp;
+---
+
+
+🚀 **Conhecimentos**: HTML5, CSS3.
+
+🛠️ **Ferramentas**: Visual Studio Code, Photoshop, Adobe XD, Git e Github.
+
+🌱 **Estudando atualmente**:  JavaScript, Java, TypeScript e Angular.
+
+
+---
+
+### ☕ Entre em contato
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/evycastro)](https://github.com/evycastro)
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelyn-ferreira-25b710218//)](https://www.linkedin.com/in/evelyn-ferreira-25b710218//)
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white&link=mailto:evycastro8@gmail.com)](mailto:evycastro8@gmail.com)
+
+
+
+
+&nbsp;
+
+#### 👩‍💻 **Desenvolvido por [Evelyn Castro](https://github.com/evycastro)** ####
+
+
+
+ 
