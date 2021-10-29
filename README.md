@@ -17,16 +17,16 @@ Estou em constante aprendizado, e sou muito adepta ao autodidatismo.
 
 *Cursando:*
 - **JavaScript Completo ES6**, Origamid;
-- **Bootcamp Capgemini Fullstack Java and Angular**, Digital Innovation One.
+- **React.JS,** Origamid;
 &nbsp;
 ---
 
 
-📖 **Conhecimentos**: HTML5, CSS3.
+📖 **Conhecimentos**: HTML5, CSS3, JavaScript.
 
 🖱️ **Ferramentas**: Visual Studio Code, Photoshop, Adobe XD, Git e Github.
 
-🌱 **Estudando atualmente**:  JavaScript, Java, TypeScript e Angular.
+🌱 **Estudando atualmente**:  JavaScript, React.JS, TypeScript.
 
 
 ---
