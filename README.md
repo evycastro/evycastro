@@ -16,7 +16,7 @@ Estou em constante aprendizado, e sou muito adepta ao autodidatismo.
 &nbsp;
 
 *Cursando:*
-- **Análise e Desenvolvimento de Sistemas**, Estácio;
+- **Análise e Desenvolvimento de Sistemas**, Estácio de Sá;
 - **JavaScript Completo ES6**, Origamid;
 - **React.JS,** Origamid;
 &nbsp;
